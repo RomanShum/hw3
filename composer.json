@@ -1,0 +1,12 @@
+{
+  "name": "romanshumakov/hwcomposer",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "romanshumakov\\Hwcomposer\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
