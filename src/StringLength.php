@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespase romanshumakov\Hwcomposer;
+namespace romanshumakov\Hwcomposer;
 
 class StringLength{
     public function getLength(string $str): int {
